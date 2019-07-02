@@ -15,14 +15,14 @@
     </url>
     
     <url>
-        <loc>http://shawn.wang/about/</loc>
+        <loc>http://shawn.wang/archive/</loc>
         <lastmod>2019-07-02T09:32:03.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://shawn.wang/archive/</loc>
+        <loc>http://shawn.wang/about/</loc>
         <lastmod>2019-07-02T09:32:03.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
